@@ -1,0 +1,16 @@
+
+body{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    color:black;
+}
+.fz-13{
+    font-size: 13px;
+}
+.bt.primary{
+    color:darkcyan;
+}
+.bg-register{
+    background-image: url('image/backgroundregister.jpg');
+    background-size: cover;
+}
